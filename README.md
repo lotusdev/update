@@ -21,4 +21,9 @@ Block Time: 1 Minutes
 Stake Interest: 6% annually
 Minimum Stake Age: 10 days
 Max Stake age: 30 days
+
+rpcport=46111
+addnode=50.243.222.197
+addnode=177.5.213.39
+
 for more details visit the launch thread over at https://bitcointalk.org/index.php?topic=658104.0
