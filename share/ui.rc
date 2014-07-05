@@ -1,4 +1,4 @@
-BottleCaps               ICON    "pixmaps/BottleCaps.ico"
+BottleCaps               ICON    "pixmaps/lotus.ico"
 
 #include "wx/msw/wx.rc"
 
