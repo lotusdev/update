@@ -11,7 +11,7 @@
 const std::string CLIENT_NAME("Lotuscoin");
 
 // Client version number
-#define CLIENT_VERSION_SUFFIX   "-Beta19"
+#define CLIENT_VERSION_SUFFIX   "-Beta99T"
 
 
 // The following part of the code determines the CLIENT_BUILD variable.

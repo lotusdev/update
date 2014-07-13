@@ -46,7 +46,7 @@ static const int MEMPOOL_GD_VERSION = 60002;
 
 #define DISPLAY_VERSION_MAJOR       0
 #define DISPLAY_VERSION_MINOR       9
-#define DISPLAY_VERSION_REVISION    8
-#define DISPLAY_VERSION_BUILD       8
+#define DISPLAY_VERSION_REVISION    9
+#define DISPLAY_VERSION_BUILD       9
 
 #endif
